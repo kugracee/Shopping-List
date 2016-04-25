@@ -1,0 +1,71 @@
+.header {
+	text-align: center;
+
+}
+
+.header h1, h3 {
+	color: #fff;
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+	font-weight: 800;
+	background-color: #590059;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+}
+
+.header h3{
+	padding-top: 20px;
+}
+
+.logo {
+	background-position: center;
+	display: block;
+  	margin: 0 auto;
+  	padding-top: 15px;
+  	padding-bottom: 15px;
+
+}
+
+.ul {
+	text-align: center;
+	padding-bottom: 100px;
+}
+
+li {
+	display: block;
+	font-size: 26px;
+}
+
+.container {
+	text-align: center;
+	border-top-style: dashed;
+	font-family: 'Poiret One', cursive;
+	font-weight: 900;
+	border-bottom-style: dashed;
+}
+
+.background{
+	width: 100%;
+	height: auto;
+	opacity: .7;
+	position: relative;
+}
+
+.list {
+	position: absolute;
+	background: #fff;
+	padding: 40px;
+	border: 2px solid;
+	border-radius: 25px;
+    left: 0;
+    right: 0;
+    top: 400px;
+}
+
+p {
+	padding-bottom: 15px;
+}	
+}
