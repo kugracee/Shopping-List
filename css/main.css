@@ -62,20 +62,30 @@ li {
     opacity: .9;
     cursor: pointer;
     margin: auto;
+<<<<<<< HEAD
     width: 400px;
     margin-top: 50px;
     margin-bottom: 50px;
 
+=======
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+>>>>>>> 2f253cc29d591083fd4fbf743af2fc20c18f50cb
 }
 
 p {
 	padding-bottom: 15px;
 	font-size: 20px;
 
+<<<<<<< HEAD
 
 }
 
 .delete, .check {
+=======
+.delete {
+>>>>>>> 2f253cc29d591083fd4fbf743af2fc20c18f50cb
 	font-size: 14px;
 	background-color: #581830;
 	color: #fff;
@@ -96,4 +106,8 @@ p {
 #item-template {
     display: none;
 
+}
+
+#item-template {
+    display: none;
 }

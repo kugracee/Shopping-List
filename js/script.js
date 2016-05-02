@@ -27,8 +27,11 @@ $(document).keypress(function(e) {
 $(document).on("click", '.delete', function(){
 	$(this).parent().fadeOut(500);
 });
+<<<<<<< HEAD
 
 //strike through on click of button
 $(document).on("click", '.check', function(){
     $(this).parent().wrap("<strike>");
 });
+=======
+>>>>>>> 2f253cc29d591083fd4fbf743af2fc20c18f50cb
